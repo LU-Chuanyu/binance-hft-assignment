@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+*.parquet
+*.csv
+*.csv.gz
+*.jsonl
+*.ndjson
+整合分片_*/
+data/
